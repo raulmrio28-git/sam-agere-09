@@ -2,7 +2,7 @@
    || 09 Image Utilities Header - 09img.h                       ||
    ||-----------------------------------------------------------||
    || 0.3 = 22 Nov. 2022 - Use array pointers instead of file as||
-   || input and vector as output.                               ||
+   || input and vector as output                                ||
    || 0.2 = 16 Aug. 2022 - Now use bit field for type (RLE, off-||
    || set)                                                      ||
    || 0.1 = 18 July 2022 - Implementing decode function         ||
